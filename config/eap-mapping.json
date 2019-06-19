@@ -11,5 +11,18 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton"
+  },
+  {
+    "name": "associaties",
+    "type": "ap",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomein",
+    "template": "roles-ap.j2",
+    "title": "Associaties",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton"
   }
 ]
