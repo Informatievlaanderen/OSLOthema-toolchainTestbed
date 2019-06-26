@@ -30,7 +30,7 @@
     "type": "voc",
     "eap": "testAssociaties.EAP",
     "diagram": "MijnDomein",
-    "template": "testassociaties-ap.j2",
+    "template": "testassociaties-voc.j2",
     "title": "Associaties",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "12-12-2018",
