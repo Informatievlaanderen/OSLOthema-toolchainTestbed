@@ -20,7 +20,7 @@
     "template": "testassociaties-ap.j2",
     "title": "Associaties",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-date": "2019-08-28",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties"
