@@ -37,5 +37,31 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties"
+  },
+  {
+    "name": "associaties-met-name-tags",
+    "type": "ap",
+    "eap": "testAssociatiesMetNameTags.EAP",
+    "diagram": "MijnDomein",
+    "template": "testassociaties-ap.j2",
+    "title": "Associaties",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-02",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-name-tags"
+  },
+  {
+    "name": "associaties-voc-met-name-tags",
+    "type": "voc",
+    "eap": "testAssociatiesMetNameTags.EAP",
+    "diagram": "MijnDomein",
+    "template": "testassociaties-voc.j2",
+    "title": "Associaties",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-02",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-name-tags"
   }
 ]
