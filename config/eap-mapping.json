@@ -7,7 +7,7 @@
     "template": "roles-ap.j2",
     "title": "Roles",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-date": "2018-12-12",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton"
@@ -20,7 +20,7 @@
     "template": "testassociaties-ap.j2",
     "title": "Associaties",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-08-30",
+    "publication-date": "2019-09-02",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties"
@@ -33,7 +33,7 @@
     "template": "testassociaties-voc.j2",
     "title": "Associaties",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-08-30",
+    "publication-date": "2019-09-02",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties"
