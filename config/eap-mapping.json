@@ -28,7 +28,7 @@
   {
     "name": "associaties-voc",
     "type": "voc",
-    "eap": "testAssociatiesMetOntbrekendLabel.EAP",
+    "eap": "testAssociaties.EAP",
     "diagram": "MijnDomein",
     "template": "testassociaties-voc.j2",
     "title": "Associaties",
@@ -41,7 +41,7 @@
   {
     "name": "associaties-met-name-tags",
     "type": "ap",
-    "eap": "testAssociatiesMetOntbrekendLabel.EAP",
+    "eap": "testAssociaties.EAP",
     "diagram": "MijnDomeinMetNameTags",
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met name tags op klassen)",
