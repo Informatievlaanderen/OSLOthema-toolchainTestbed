@@ -89,5 +89,31 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-name-tags"
+  },
+  {
+    "name": "associaties-met-uri-tags",
+    "type": "ap",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomeinMetUriTags",
+    "template": "testassociaties-ap.j2",
+    "title": "Associaties (met uri tags op klassen)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-12",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-uri-tags"
+  },
+  {
+    "name": "associaties-voc-met-uri-tags",
+    "type": "voc",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomeinMetUriTags",
+    "template": "testassociaties-voc.j2",
+    "title": "Associaties (met uri tags op klassen)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-12",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-uri-tags"
   }
 ]
