@@ -117,6 +117,19 @@
     "site": "site-skeleton/associaties-met-uri-tags"
   },
   {
+	"name": "assocafdalen",
+	"type": "ap",
+	"eap": "testAssociaties.EAP",
+	"diagram": "MijnAfdaalDomeinAP",
+	"template": "assocafdalen-ap.j2",
+	"title": "Associaties Afdalen AP",
+	"publication-state": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+	"publication-date": "2019-09-13",
+	"contributors-file": "stakeholders.csv",
+	"contributors-column": "Roles",
+	"site": "site-skeleton/assocafdalen-ap"
+  },
+  {
 	"name": "assocafdalen-voc",
 	"type": "voc",
 	"eap": "testAssociaties.EAP",
@@ -126,19 +139,6 @@
 	"publication-state": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
 	"publication-date": "2019-09-13",
 	"license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
-	"contributors-file": "stakeholders.csv",
-	"contributors-column": "Roles",
-	"site": "site-skeleton/assocafdalen-ap"
-  },
-  {
-	"name": "assocafdalen-ap",
-	"type": "ap",
-	"eap": "testAssociaties.EAP",
-	"diagram": "MijnAfdaalDomeinAP",
-	"template": "assocafdalen-ap.j2",
-	"title": "Associaties Afdalen AP",
-	"publication-state": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-	"publication-date": "2019-09-13",
 	"contributors-file": "stakeholders.csv",
 	"contributors-column": "Roles",
 	"site": "site-skeleton/assocafdalen-ap"
