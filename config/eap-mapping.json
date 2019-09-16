@@ -117,6 +117,32 @@
     "site": "site-skeleton/associaties-met-uri-tags"
   },
   {
+    "name": "associaties-met-uri-tags2",
+    "type": "ap",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomeinMetUriTags2",
+    "template": "testassociaties-ap.j2",
+    "title": "Associaties (met uri tags op associaties en rollen)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-12",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-uri-tags2"
+  },
+  {
+    "name": "associaties-voc-met-uri-tags2",
+    "type": "voc",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomeinMetUriTags2",
+    "template": "testassociaties-voc.j2",
+    "title": "Associaties (met uri tags op associaties en rollen)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-12",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-uri-tags2"
+  },
+  {
 	"name": "assocafdalen",
 	"type": "ap",
 	"eap": "testAssociaties.EAP",
