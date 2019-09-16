@@ -143,6 +143,58 @@
     "site": "site-skeleton/associaties-met-uri-tags2"
   },
   {
+    "name": "associaties-met-package-tags",
+    "type": "ap",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomeinMetPackageTags",
+    "template": "testassociaties-ap.j2",
+    "title": "Associaties (met uri tags op klassen)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-16",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-package-tags"
+  },
+  {
+    "name": "associaties-voc-met-package-tags",
+    "type": "voc",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomeinMetPackageTags",
+    "template": "testassociaties-voc.j2",
+    "title": "Associaties (met uri tags op klassen)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-16",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-package-tags"
+  },
+  {
+    "name": "associaties-met-package-tags2",
+    "type": "ap",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomeinMetPackageTags2",
+    "template": "testassociaties-ap.j2",
+    "title": "Associaties (met uri tags op associaties en rollen)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-16",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-package-tags2"
+  },
+  {
+    "name": "associaties-voc-met-package-tags2",
+    "type": "voc",
+    "eap": "testAssociaties.EAP",
+    "diagram": "MijnDomeinMetPackageTags2",
+    "template": "testassociaties-voc.j2",
+    "title": "Associaties (met uri tags op associaties en rollen)",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-09-16",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton/associaties-met-package-tags2"
+  },
+  {
 	"name": "assocafdalen",
 	"type": "ap",
 	"eap": "testAssociaties.EAP",
