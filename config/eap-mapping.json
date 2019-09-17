@@ -20,7 +20,7 @@
     "template": "testassociaties-ap.j2",
     "title": "Associaties",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties"
@@ -33,7 +33,7 @@
     "template": "testassociaties-voc.j2",
     "title": "Associaties",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties"
@@ -46,7 +46,7 @@
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met name tags op klassen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-name-tags"
@@ -59,7 +59,7 @@
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met name tags op klassen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-name-tags"
@@ -72,7 +72,7 @@
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met name tags op associaties en rollen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-name-tags"
@@ -85,7 +85,7 @@
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met name tags op associaties en rollen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-name-tags"
@@ -98,7 +98,7 @@
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met uri tags op klassen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-uri-tags"
@@ -111,7 +111,7 @@
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met uri tags op klassen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-uri-tags"
@@ -124,7 +124,7 @@
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met uri tags op associaties en rollen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-uri-tags2"
@@ -137,62 +137,62 @@
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met uri tags op associaties en rollen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
     "site": "site-skeleton/associaties-met-uri-tags2"
   },
   {
-    "name": "associaties-met-package-tags",
+    "name": "associaties-met-packages",
     "type": "ap",
     "eap": "testAssociaties.EAP",
     "diagram": "MijnDomeinMetPackageTags",
     "template": "testassociaties-ap.j2",
-    "title": "Associaties (met uri tags op klassen)",
+    "title": "Associaties (klassen en associaties uit aan ander package)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-package-tags"
+    "site": "site-skeleton/associaties-met-packages"
   },
   {
-    "name": "associaties-voc-met-package-tags",
+    "name": "associaties-voc-met-packages",
     "type": "voc",
     "eap": "testAssociaties.EAP",
     "diagram": "MijnDomeinMetPackageTags",
     "template": "testassociaties-voc.j2",
-    "title": "Associaties (met uri tags op klassen)",
+    "title": "Associaties (klassen en associaties uit aan ander package)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-package-tags"
+    "site": "site-skeleton/associaties-met-packages"
   },
   {
-    "name": "associaties-met-package-tags2",
+    "name": "associaties-met-packages2",
     "type": "ap",
     "eap": "testAssociaties.EAP",
     "diagram": "MijnDomeinMetPackageTags2",
     "template": "testassociaties-ap.j2",
-    "title": "Associaties (met uri tags op associaties en rollen)",
+    "title": "Associaties (deelnemende klassen uit een ander package, associaties binnen dit package)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-package-tags2"
+    "site": "site-skeleton/associaties-met-packages2"
   },
   {
-    "name": "associaties-voc-met-package-tags2",
+    "name": "associaties-voc-met-packages2",
     "type": "voc",
     "eap": "testAssociaties.EAP",
     "diagram": "MijnDomeinMetPackageTags2",
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met uri tags op associaties en rollen)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-09-16",
+    "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-package-tags2"
+    "site": "site-skeleton/associaties-met-packages2"
   },
   {
 	"name": "assocafdalen",
@@ -202,7 +202,7 @@
 	"template": "assocafdalen-ap.j2",
 	"title": "Associaties Afdalen AP",
 	"publication-state": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-	"publication-date": "2019-09-16",
+	"publication-date": "2019-09-17",
 	"contributors-file": "stakeholders.csv",
 	"contributors-column": "Roles",
 	"site": "site-skeleton/assocafdalen-ap"
@@ -215,7 +215,7 @@
 	"template": "assocafdalen-voc.j2",
 	"title": "Associaties Afdalen VOC",
 	"publication-state": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-	"publication-date": "2019-09-16",
+	"publication-date": "2019-09-17",
 	"license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
 	"contributors-file": "stakeholders.csv",
 	"contributors-column": "Roles",
