@@ -15,7 +15,7 @@
   {
     "name": "associaties",
     "type": "ap",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomein.EAP",
     "diagram": "MijnDomein",
     "template": "testassociaties-ap.j2",
     "title": "Associaties",
@@ -23,12 +23,14 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties"
   },
   {
     "name": "associaties-voc",
     "type": "voc",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomein.EAP",
     "diagram": "MijnDomein",
     "template": "testassociaties-voc.j2",
     "title": "Associaties",
@@ -36,12 +38,13 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
     "name": "associaties-met-name-tags",
     "type": "ap",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetNameTags.EAP",
     "diagram": "MijnDomeinMetNameTags",
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met name tags op klassen)",
@@ -49,12 +52,14 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-name-tags"
   },
   {
     "name": "associaties-voc-met-name-tags",
     "type": "voc",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetNameTags.EAP",
     "diagram": "MijnDomeinMetNameTags",
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met name tags op klassen)",
@@ -62,12 +67,13 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-name-tags"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
     "name": "associaties-met-name-tags2",
     "type": "ap",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetNameTags2.EAP",
     "diagram": "MijnDomeinMetNameTags2",
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met name tags op associaties en rollen)",
@@ -75,12 +81,14 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-name-tags"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
+    "site": "site-skeleton/associaties-met-name-tags2"
   },
   {
     "name": "associaties-voc-met-name-tags2",
     "type": "voc",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetNameTags2.EAP",
     "diagram": "MijnDomeinMetNameTags2",
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met name tags op associaties en rollen)",
@@ -88,12 +96,13 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-name-tags"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
     "name": "associaties-met-uri-tags",
     "type": "ap",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetUriTags.EAP",
     "diagram": "MijnDomeinMetUriTags",
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met uri tags op klassen)",
@@ -101,12 +110,14 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-uri-tags"
   },
   {
     "name": "associaties-voc-met-uri-tags",
     "type": "voc",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetUriTags.EAP",
     "diagram": "MijnDomeinMetUriTags",
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met uri tags op klassen)",
@@ -114,12 +125,13 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-uri-tags"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
     "name": "associaties-met-uri-tags2",
     "type": "ap",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetUriTags2.EAP",
     "diagram": "MijnDomeinMetUriTags2",
     "template": "testassociaties-ap.j2",
     "title": "Associaties (met uri tags op associaties en rollen)",
@@ -127,12 +139,14 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-uri-tags2"
   },
   {
     "name": "associaties-voc-met-uri-tags2",
     "type": "voc",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetUriTags2.EAP",
     "diagram": "MijnDomeinMetUriTags2",
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met uri tags op associaties en rollen)",
@@ -140,12 +154,13 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-uri-tags2"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
     "name": "associaties-met-packages",
     "type": "ap",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetPackages.EAP",
     "diagram": "MijnDomeinMetPackages",
     "template": "testassociaties-ap.j2",
     "title": "Associaties (klassen en associaties uit aan ander package)",
@@ -153,12 +168,14 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-packages"
   },
   {
     "name": "associaties-voc-met-packages",
     "type": "voc",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetPackages.EAP",
     "diagram": "MijnDomeinMetPackages",
     "template": "testassociaties-voc.j2",
     "title": "Associaties (klassen en associaties uit aan ander package)",
@@ -166,12 +183,13 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-packages"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
     "name": "associaties-met-packages2",
     "type": "ap",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetPackages2.EAP",
     "diagram": "MijnDomeinMetPackages2",
     "template": "testassociaties-ap.j2",
     "title": "Associaties (deelnemende klassen uit een ander package, associaties binnen dit package)",
@@ -179,12 +197,14 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-packages2"
   },
   {
     "name": "associaties-voc-met-packages2",
     "type": "voc",
-    "eap": "testAssociaties.EAP",
+    "eap": "testAssociatiesMijnDomeinMetPackages2.EAP",
     "diagram": "MijnDomeinMetPackages2",
     "template": "testassociaties-voc.j2",
     "title": "Associaties (met uri tags op associaties en rollen)",
@@ -192,12 +212,13 @@
     "publication-date": "2019-09-17",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Roles",
-    "site": "site-skeleton/associaties-met-packages2"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
 	"name": "assocafdalen",
 	"type": "ap",
-	"eap": "testAssociaties.EAP",
+	"eap": "testAssociatiesMijnAfdaalDomein.EAP",
 	"diagram": "MijnAfdaalDomeinAP",
 	"template": "assocafdalen-ap.j2",
 	"title": "Associaties Afdalen AP",
@@ -205,12 +226,14 @@
 	"publication-date": "2019-09-17",
 	"contributors-file": "stakeholders.csv",
 	"contributors-column": "Roles",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
 	"site": "site-skeleton/assocafdalen-ap"
   },
   {
 	"name": "assocafdalen-voc",
 	"type": "voc",
-	"eap": "testAssociaties.EAP",
+	"eap": "testAssociatiesMijnAfdaalDomein.EAP",
 	"diagram": "MijnAfdaalDomein",
 	"template": "assocafdalen-voc.j2",
 	"title": "Associaties Afdalen VOC",
@@ -219,6 +242,7 @@
 	"license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
 	"contributors-file": "stakeholders.csv",
 	"contributors-column": "Roles",
-	"site": "site-skeleton/assocafdalen-ap"
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   }
 ]
