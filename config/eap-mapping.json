@@ -100,6 +100,35 @@
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
+    "name": "associaties-met-name-tags2",
+    "type": "ap",
+    "eap": "testAssociatiesMijnDomeinMetNameTags2.EAP",
+    "diagram": "MijnDomeinMetNameTags2",
+    "template": " testassociaties-met-name-tags2-ap.j2",
+    "title": "Associaties met name tags 2",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-10-03",
+    "contributors-file": "stakeholdersAssociaties.csv",
+    "contributors-column": "Associaties",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
+    "site": "site-skeleton/associaties-met-name-tags2"
+  },
+  {
+    "name": "associaties-voc-met-name-tags2",
+    "type": "voc",
+    "eap": "testAssociatiesMijnDomeinMetNameTags2.EAP",
+    "diagram": "MijnDomeinMetNameTags2",
+    "template": "testassociaties-met-name-tags2-voc.j2",
+    "title": "Associaties met name tags 2",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-10-03",
+    "contributors-file": "stakeholdersAssociaties.csv",
+    "contributors-column": "Associaties",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+  },
+  {
     "name": "associaties-met-uri-tags",
     "type": "ap",
     "eap": "testAssociatiesMijnDomeinMetUriTags.EAP",
