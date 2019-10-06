@@ -1,0 +1,22 @@
+{% extends "voc2.j2" %}
+
+{% block summary %}
+<p>
+  Dit is een voorbeeld vocabularium om te testen hoe associaties worden verwerkt tot specificatie.
+</p>
+<p>
+  In dit voorbeeld bevinden zich per associatie telkens de <b>deelnemende klasse(n) in een ander package</b>.
+  We wensen dus binnen ons package nieuwe associaties te definiëren tussen bestaande klassen.
+  De klassen werden hiervoor voorzien van tag package=MijnAnderDomein, maar het hadden even goed uit MijnAnderDomein 'geshopte' klassen kunnen zijn...
+  De nodige package tags werden toegevoegd aan associaties en rollen, zodat alle gegenereerde elementen zich binnen het huidig package (en niet MijnAnderDomein) bevinden.
+</p>
+<p>
+  Als alles goed gaat zie je in het gegenereerde vocabularium de baseURI van MijnAnderDomein niet voorkomen als URI van een gedefinieerd element (wel als Domein en Bereik).
+</p>
+{% endblock %}
+
+{% block status %}
+<p>Dit zou de status tekst moeten zijn.</p>
+{% endblock %}
+
+

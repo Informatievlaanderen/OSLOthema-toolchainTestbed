@@ -274,6 +274,35 @@
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
+    "name": "associaties-met-packages3",
+    "type": "ap",
+    "eap": "testAssociatiesMijnDomeinMetPackages3.EAP",
+    "diagram": "MijnDomeinMetPackages3",
+    "template": "testassociaties-met-packages3-ap.j2",
+    "title": "Associaties met packages 3",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-10-06",
+    "contributors-file": "stakeholdersAssociaties.csv",
+    "contributors-column": "Associaties",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
+    "site": "site-skeleton/associaties-met-packages3"
+  },
+  {
+    "name": "associaties-voc-met-packages3",
+    "type": "voc",
+    "eap": "testAssociatiesMijnDomeinMetPackages3.EAP",
+    "diagram": "MijnDomeinMetPackages3",
+    "template": "testassociaties-met-packages3-voc.j2",
+    "title": "Associaties met packages 3",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-10-06",
+    "contributors-file": "stakeholdersAssociaties.csv",
+    "contributors-column": "Associaties",
+	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+  },
+  {
     "name": "associaties-met-afdaal-tags",
     "type": "ap",
     "eap": "testAssociatiesMijnDomeinMetAfdaalTags.EAP",
