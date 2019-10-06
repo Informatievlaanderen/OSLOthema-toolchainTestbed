@@ -5,7 +5,13 @@
   Dit is een voorbeeld applicatieprofiel om te testen hoe associaties worden verwerkt tot specificatie.
 </p>
 <p>
-  Dit voorbeeld bevindt zich <b>in een ander package ten opzichte van waar de associaties gedefinieerd werden</b>. Ze worden samen met de deelnemende klassen <i>geshopt</i> uit het oorspronkelijke package.
+  In dit voorbeeld bevinden zich per associatie telkens de <b>deelnemende klasse(n) in een ander package</b>.
+  We wensen dus binnen ons package nieuwe associaties te definiëren tussen bestaande klassen.
+  De klassen werden hiervoor voorzien van tag package=MijnAnderDomein, maar het hadden even goed uit MijnAnderDomein 'geshopte' klassen kunnen zijn...
+  De nodige package tags werden toegevoegd aan associaties en rollen, zodat alle gegenereerde elementen zich binnen het huidig package (en niet MijnAnderDomein) bevinden.
+</p>
+<p>
+  Als alles goed gaat zie je in het gegenereerde vocabularium de baseURI van MijnAnderDomein niet voorkomen als URI van een gedefinieerd element (wel als Domein en Bereik).
 </p>
 {% endblock %}
 
