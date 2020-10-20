@@ -25,7 +25,13 @@
     "contributors-column": "Associaties",
 	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
-    "site": "site-skeleton/associaties"
+    "site": "site-skeleton/associaties",
+    "translation": [
+      {
+        "language":"en",
+        "template":"testassociaties-ap_en.j2"
+      }
+    ]
   },
   {
     "name": "associaties-voc",
