@@ -29,7 +29,7 @@
     "translation": [
       {
         "language":"en",
-        "template":"testassociaties-ap_en.j2",
+        "template":"associaties_en.j2",
         "title":"Associations",
         "translationjson":"associaties_en.json"
       }
