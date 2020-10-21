@@ -31,7 +31,8 @@
         "language":"en",
         "template":"testassociaties-ap_en.j2 ",
         "title":"Associations",
-        "translationjson":"associaties_en.json"
+        "translationjson":"associaties_en.json",
+        "mergefile":"associaties_merged.jsonld"
       }
     ]
   },
