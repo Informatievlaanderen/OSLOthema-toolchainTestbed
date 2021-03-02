@@ -23,7 +23,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties",
     "translation": [
@@ -54,7 +54,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -68,7 +68,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-hoofdletters"
   },
@@ -83,7 +83,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -97,7 +97,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-ap-label-tags"
   },
@@ -112,7 +112,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -126,7 +126,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-name-tags"
   },
@@ -141,7 +141,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -155,7 +155,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-name-tags2"
   },
@@ -170,7 +170,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -184,7 +184,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-uri-tags"
   },
@@ -199,7 +199,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -213,7 +213,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-uri-tags2"
   },
@@ -228,7 +228,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -242,7 +242,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-packages"
   },
@@ -257,7 +257,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -271,7 +271,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-packages2"
   },
@@ -286,7 +286,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -300,7 +300,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-packages3"
   },
@@ -315,7 +315,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -329,7 +329,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-afdaal-tags"
   },
@@ -344,7 +344,7 @@
     "publication-date": "2019-10-09",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -358,7 +358,7 @@
 	"publication-date": "2019-10-09",
 	"contributors-file": "stakeholdersAssociaties.csv",
 	"contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
 	"site": "site-skeleton/assocafdalen-ap"
   },
@@ -374,7 +374,7 @@
 	"license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
 	"contributors-file": "stakeholdersAssociaties.csv",
 	"contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   },
   {
@@ -388,7 +388,7 @@
     "publication-date": "2019-12-05",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
     "site": "site-skeleton/associaties-met-carets"
   },
@@ -403,7 +403,7 @@
     "publication-date": "2019-12-05",
     "contributors-file": "stakeholdersAssociaties.csv",
     "contributors-column": "Associaties",
-	"feedbackurl": "https://github.com/bertvannuffelen/demo_oslodoc/issues",
+	"feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-toolchainTestbed/issues",
 	"standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
   }
 ]
