@@ -1,5 +1,18 @@
 [
   {
+    "name": "codelist",
+    "type": "ap",
+    "eap": "codelist.eapx",
+    "diagram": "codelist",
+    "template": "codelist-ap.j2",
+    "title": "Codelists",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2023-10-17",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Roles",
+    "site": "site-skeleton"
+  },
+  {
     "name": "roles",
     "type": "ap",
     "eap": "UitbreidingToolchain.EAP",
