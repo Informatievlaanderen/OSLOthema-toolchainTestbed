@@ -2,7 +2,7 @@
   {
     "name": "codelist",
     "type": "ap",
-    "eap": "codelist.eapx",
+    "eap": "codelist.eap",
     "diagram": "codelist",
     "template": "codelist-ap.j2",
     "title": "Codelists",
